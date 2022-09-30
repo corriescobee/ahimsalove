@@ -2,7 +2,7 @@ window.setInterval(function() {
 
     var current = new Date();
 
-    var day1 = new Date("May 24, 2022 13:20:02")
+    var day1 = new Date("October 1, 2022 13:20:02")
     var day2 = new Date("May 24, 2022 13:20:04");
     var day3 = new Date("May 24, 2022 13:20:06");
     var day4 = new Date("May 24, 2022 13:20:08");
